@@ -1,0 +1,23 @@
+.searchTab {
+  /* width: 25rem; */
+  /* height: 1.5rem; */
+  border: 2px solid #2a3140;
+  background-color: #fff;
+  border-radius: 0.5rem;
+  padding: 10px;
+  margin: auto;
+}
+.form {
+  /* width: 45rem; */
+  display: flex;
+  justify-content: center;
+  border: 1px solid red;
+}
+.form-control {
+  width: 45rem !important;
+}
+.formButton {
+  border: 1px solid red;
+  display: flex;
+  justify-content: center;
+}

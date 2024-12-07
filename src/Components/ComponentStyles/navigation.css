@@ -1,0 +1,17 @@
+.nav {
+  border: 1px solid red;
+  /* display: flex; */
+}
+.navItem {
+  /* border: 1px solid red; */
+  width: 47.5rem;
+  justify-content: space-between;
+}
+img {
+  border: 1px solid red;
+}
+.navCollapse {
+  /* display: flex; */
+  justify-content: space-between;
+  /* border: 1px solid red; */
+}
