@@ -1,6 +1,6 @@
 import React from "react";
 import "./ComponentStyles/navigation.css";
-import { Navbar, Nav, Container, Button } from "react-bootstrap";
+import { Navbar, Nav, Container } from "react-bootstrap";
 
 export default function NavbarComponent() {
   return (
@@ -21,13 +21,7 @@ export default function NavbarComponent() {
               </Nav.Link>
               <Nav.Link href="#health-services">Health Services</Nav.Link>
             </Nav>
-            {/* <img src="" alt="user profile" /> */}
-            <Button href="" className="loginBtn">
-              Login
-            </Button>
-            <Button href="" className="SignInBtn">
-              Sign In
-            </Button>
+            <img src="" alt="user profile" />
           </Navbar.Collapse>
         </Container>
       </Navbar>
